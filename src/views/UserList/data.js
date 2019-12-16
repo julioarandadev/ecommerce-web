@@ -3,16 +3,16 @@ import uuid from 'uuid/v1';
 export default [
   {
     id: uuid(),
-    name: 'Ekaterina Tankova',
+    name: 'Julio Aranda',
     address: {
-      country: 'USA',
-      state: 'West Virginia',
-      city: 'Parkersburg',
-      street: '2849 Fulton Street'
+      country: 'ARG',
+      state: 'Ciudad de Bs. As.',
+      city: 'Almagro',
+      street: 'Pringles 724'
     },
-    email: 'ekaterina.tankova@devias.io',
-    phone: '304-428-3097',
-    avatarUrl: '/images/avatars/avatar_3.png',
+    email: 'julioarandadev@gmail.com',
+    phone: '11-5139-4412',
+    avatarUrl: '/images/avatars/avatar_3.jpg',
     createdAt: 1555016400000
   },
   {
